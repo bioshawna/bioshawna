@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning graphic design, coding, AI
 - 💞️ I’m looking to collaborate on graphic design, writing, music, photography, movies
 - 📫 How to reach me instagram, facebook, text, email
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have never had a ton of friends or a conventional family structure. I want them, though.
 
 <!---
 bioshawna/bioshawna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
