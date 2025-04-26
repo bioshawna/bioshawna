@@ -1,0 +1,15 @@
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/bin/Debug/net9.0/TestApp
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/bin/Debug/net9.0/TestApp.deps.json
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/bin/Debug/net9.0/TestApp.runtimeconfig.json
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/bin/Debug/net9.0/TestApp.dll
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/bin/Debug/net9.0/TestApp.pdb
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.AssemblyInfoInputs.cache
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.AssemblyInfo.cs
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.sourcelink.json
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.dll
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/refint/TestApp.dll
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.pdb
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/TestApp.genruntimeconfig.cache
+/Users/shawnalucas/Documents/GitHub/bioshawna/TestApp/TestApp/obj/Debug/net9.0/ref/TestApp.dll
