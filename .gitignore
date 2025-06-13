@@ -1,0 +1,7 @@
+# Ignore build output
+bin/
+obj/
+TestApp/bin/
+TestApp/obj/
+*.user
+*.suo
