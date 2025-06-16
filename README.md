@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bioshawna
-- 👀 I’m interested in graphic design, AI, coding, movies, music, writing, art, and photography.
+- 👀 I’m interested in graphic design, AI, coding, movies, music, mental health awareness, writing, art, and photography.
 - 🌱 I’m currently learning graphic design, coding, AI
 - 💞️ I’m looking to collaborate on graphic design, writing, music, photography, movies
 - 📫 How to reach me instagram, facebook, text, email
