@@ -1,0 +1,40 @@
+{
+  "name": "mcp-server-manager",
+  "version": "1.0.0",
+  "description": "A comprehensive MCP server discovery and management application with cloud sync and Notion integration",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "init-db": "node src/database/init.js",
+    "scan": "node src/scanner/scan.js",
+    "sync": "node src/sync/sync.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "server-management",
+    "notion",
+    "cloud-sync"
+  ],
+  "author": "bioshawna",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "node-cron": "^3.0.3",
+    "sqlite3": "^5.1.7",
+    "axios": "^1.7.2",
+    "fs-extra": "^11.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "winston": "^3.13.0",
+    "glob": "^10.4.1",
+    "yaml": "^2.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
